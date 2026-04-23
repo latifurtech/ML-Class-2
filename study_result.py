@@ -23,7 +23,7 @@ plt.scatter(df["hours_studied"], df["exam_marks"])
 plt.xlabel("Hours Studied")
 plt.ylabel("Exam Marks")
 plt.title("Study Hours vs Exam Marks")
-#plt.show()
+plt.show()
 
 
 # Step 4: Define features and target
